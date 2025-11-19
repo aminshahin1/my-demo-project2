@@ -1,1 +1,2 @@
 this in new text
+this is the second line
